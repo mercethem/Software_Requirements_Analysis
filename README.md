@@ -8,7 +8,7 @@ The project main text: ERP Dökümantasyonu.docx
 Project language = Turkish
 
 
---> Project subject = ERP(Enterprise Resource Programming) <--
+--> Project subject = ERP(Enterprise Resource Planning) <--
 
 Contributors to the project
 ---------------------------
