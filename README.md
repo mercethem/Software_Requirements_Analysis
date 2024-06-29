@@ -8,8 +8,13 @@ Project subject = ERP(Enterprise Resource Programming)
 Contributors to the project
 ---------------------------
 ETHEM MERC
+
 ASIM EREN KURT 
+
 MIRAC DOGAN
+
 IREM KARAKAYA
+
 ALI KACAR
+
 MUHAMMED TALHA BICAK
