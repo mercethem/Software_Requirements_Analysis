@@ -2,6 +2,9 @@
 This project is a project of the Software Engineering 4th term Software Requirements Analysis course.
 This project has been prepared for educational purposes only.
 
+
+The project main text: ERP Dökümantasyonu.docx
+
 Project language = Turkish
 
 
