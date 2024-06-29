@@ -7,9 +7,9 @@ Project subject = ERP(Enterprise Resource Programming)
 
 Contributors to the project
 ---------------------------
-ETHEM MERC (Team Leader)
+ETHEM MERC (Team Leader) [Was selected by team vote!]
 
-ASIM EREN KURT (Assistant Team Leader)
+ASIM EREN KURT
 
 MIRAC DOGAN
 
