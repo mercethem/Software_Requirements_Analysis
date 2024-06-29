@@ -3,6 +3,7 @@ This project is a project of the Software Engineering 4th term Software Requirem
 This project has been prepared for educational purposes only.
 
 Project language = Turkish
+
 Project subject = ERP(Enterprise Resource Programming)
 
 Contributors to the project
