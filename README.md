@@ -4,7 +4,8 @@ This project has been prepared for educational purposes only.
 
 Project language = Turkish
 
-Project subject = ERP(Enterprise Resource Programming)
+
+--> Project subject = ERP(Enterprise Resource Programming) <--
 
 Contributors to the project
 ---------------------------
